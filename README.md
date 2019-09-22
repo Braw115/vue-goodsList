@@ -1,0 +1,2 @@
+# vue-goodsList
+vue demo
