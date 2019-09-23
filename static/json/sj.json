@@ -1,0 +1,42 @@
+[
+    {
+        "goodsName":"小米 Red MI5 -1",
+        "img":"static/img/sj1.jpg"
+    },
+    {
+        "goodsName":"小米 Red MI5 -2",
+        "img":"static/img/sj2.jpg"
+    },
+    {
+        "goodsName":"小米 Red MI5 -3",
+        "img":"static/img/sj3.jpg"
+    },
+    {
+        "goodsName":"小米 Red MI5 -4",
+        "img":"static/img/sj4.jpg"
+    },
+    {
+        "goodsName":"小米 Red MI5 -5",
+        "img":"static/img/sj5.jpg"
+    },
+    {
+        "goodsName":"小米 Red MI5 -6",
+        "img":"static/img/sj6.jpg"
+    },
+    {
+        "goodsName":"小米 Red MI5 -7",
+        "img":"static/img/sj7.jpg"
+    },
+    {
+        "goodsName":"小米 Red MI5 -8",
+        "img":"static/img/sj8.jpg"
+    },
+    {
+        "goodsName":"小米 Red MI5 -9",
+        "img":"static/img/sj9.jpg"
+    },
+    {
+        "goodsName":"小米 Red MI5 -10",
+        "img":"static/img/sj10.jpg"
+    }
+]
